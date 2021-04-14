@@ -1,0 +1,4 @@
+ - Download and unzip the source repository, or clone the repository following the command: "git clone https://github.com/maazs1/Development-Assignment.git".
+ - Enter into the Development-Assignment directory.
+ - The variable "inputStr" inside of function main in Main.java can be altered. Currently, the variable is initialized to "ABCBAHELLOHOWRACECARAREYOUILOVEUEVOLIIAMAIDOINGGOOD".
+ - Compile, run the code, and enjoy!
